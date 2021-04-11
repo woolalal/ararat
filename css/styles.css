@@ -131,7 +131,7 @@ hr
 #dream
 {
     text-align: center;
-    padding: 7% 15%;
+    padding: 7% 10%;
 }
 
 #dream h3
@@ -139,13 +139,22 @@ hr
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 2rem;
-    margin: 1.5rem 0 2rem;
+    margin: 2rem 0 2rem;
+}
+
+#dream h4
+{
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 2rem 0 2rem;
 }
 
 .dream-container
 {
-    padding: 3% 2%;
+    padding: 2% 4%;
 }
+
+
 
 .dream-img
 {

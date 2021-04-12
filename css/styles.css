@@ -162,3 +162,40 @@ hr
     width: 250px;
     border-radius: 100%;
 }
+
+/*Footer Section*/
+#footer
+{
+    background-color: #667285;
+    text-align: center;
+    padding: 7% 10%;
+}
+
+.footer-icon
+{
+    color: black;
+    padding: 0 1rem 1rem;
+}
+
+.footer-icon:hover
+{
+    color: #FFF;
+    transition: 0.5s;
+}
+
+#footer p
+{
+    color: white;
+}
+
+
+
+
+
+@media (max-width:1028px)
+{
+    .touch-btn
+    {
+        display: none;
+    }
+}
